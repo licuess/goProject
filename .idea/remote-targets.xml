@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="aec4d4fa-3370-43e2-902c-3fd392972427" />
+    <targets>
+      <target name="root@192.168.157.128:22" type="ssh/sftp" uuid="aec4d4fa-3370-43e2-902c-3fd392972427">
+        <config>
+          <option name="projectRootOnTarget" value="/root/main.go" />
+          <option name="serverName" value="root@192.168.157.128:22 password" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="compiledExecutablesVolume">
+              <VolumeState>
+                <option name="remotePath" value="/root/goProject" />
+              </VolumeState>
+            </option>
+            <option name="goPath" value="/usr/local/go/bin/go" />
+            <option name="goRoot" value="/usr/local/go/bin/go" />
+            <option name="goVersion" value="zsh:1: no such file or directory: /usr/bin/which: no go in (/usr/share/Modules/bin:/root/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin)" />
+            <option name="projectSourcesVolume">
+              <VolumeState>
+                <option name="remotePath" value="/root/goProject" />
+              </VolumeState>
+            </option>
+          </config>
+        </ContributedStateBase>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>

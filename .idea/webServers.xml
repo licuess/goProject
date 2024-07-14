@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2273b6a4-4f3c-4644-a2a1-bedf6fd0bad5" name="rokylinux">
+        <fileTransfer accessType="SFTP" host="192.168.157.128" port="22" sshConfigId="dc739414-3553-453d-95cc-433a34ac35b6" sshConfig="root@192.168.157.128:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
