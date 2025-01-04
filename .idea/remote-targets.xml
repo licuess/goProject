@@ -15,7 +15,7 @@
                 <option name="remotePath" value="/root/goProject" />
               </VolumeState>
             </option>
-            <option name="goPath" value="/usr/local/go/bin/go" />
+            <option name="goPath" value="/root/GOPATH" />
             <option name="goRoot" value="/usr/local/go/bin/go" />
             <option name="goVersion" value="zsh:1: no such file or directory: /usr/bin/which: no go in (/usr/share/Modules/bin:/root/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin)" />
             <option name="projectSourcesVolume">
