@@ -9,6 +9,7 @@ func main() {
 	bar()
 	fmt.Println("hello")
 	fmt.Println("hello to zed on world")
+	fmt.Println("hello to zed on world")
 
 }
 
@@ -20,4 +21,5 @@ func foo() *int {
 func bar() {
 	fmt.Println("bar func")
 	fmt.Println(*foo())
+	fmt.Println("bar func end")
 }
